@@ -6,7 +6,7 @@
 - 😄 Motivated by challenges. Moved by lifelong learning
 - ⚡ In a sentence: I'm a curious self-learner passionate about learning.
 
-Skills:
+#### Skills:
 - Python (Pandas, Numpy, SciPy, Scikit-learn, Seaborn, Matplotlib, etc)
 - SQL
 - PowerBi
