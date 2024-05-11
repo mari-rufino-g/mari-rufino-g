@@ -1,9 +1,11 @@
 ### Hi, I'm Mari Rufino 👋
 
 
-- 🔭 I’m currently working on Hotmart as a Data Analyst
-- 😄 Motivated by challenges. Moved by lifelong learning
-- ⚡ In a sentence: I'm a curious self-learner passionate about learning.
+Motivated by challenges. Moved by lifelong learning.
+
+I'm a Data Analyst with +5 years of professional experience, graduated in Social Communication with an emphasis on Publicity and Advertising, trained in impact measurement methodologies and social media management. Work experience in Marketing, Operations, Business Analytics, and Data Analytics.
+
+Given that multidisciplinary professional experience, I've developed skills in cross-team integration, project management, client/supplier and internal co-workers relationship management, developing business KPIs, providing training on analytical and technological solutions to non-tech clients and also co-workers, and self-learning.
 
 #### Skills:
 - Python (Pandas, Numpy, SciPy, Scikit-learn, Seaborn, Matplotlib, etc)
