@@ -1,8 +1,7 @@
 ### Hi, I'm Mari Rufino 👋
 
 
-- 🔭 I’m currently working on Ambev Tech as Developer
-- 🌱 I’m currently learning react and data analytics
+- 🔭 I’m currently working on Hotmart as a Data Analyst
 - 😄 Motivated by challenges. Moved by lifelong learning
 - ⚡ In a sentence: I'm a curious self-learner passionate about learning.
 
