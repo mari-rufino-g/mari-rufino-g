@@ -1,16 +1,18 @@
 ### Hi, I'm Mari Rufino 👋
 
 
-Motivated by challenges. Moved by lifelong learning.
-
-I'm a Data Analyst with +5 years of professional experience, graduated in Social Communication with an emphasis on Publicity and Advertising, trained in impact measurement methodologies and social media management. Work experience in Marketing, Operations, Business Analytics, and Data Analytics.
-
-Given that multidisciplinary professional experience, I've developed skills in cross-team integration, project management, client/supplier and internal co-workers relationship management, developing business KPIs, providing training on analytical and technological solutions to non-tech clients and also co-workers, and self-learning.
+Data Analyst with 3 years of experience leveraging data to optimize processes and improve organizational performance. Lead initiatives at Hotmart, that increased the customer service score by 15% through chatbot humanization and boosted GMV by 7% by analyzing and integrating affiliate behavior profiles into the recommendation system. Focused on measuring AI product impact and generating insightful analyses to enhance performance and user satisfaction. Experienced in driving data strategy and leading cross-functional teams in marketplaces and e-commerce using agile methodologies. Proficient in Excel, Python, SQL, and Power BI. Actively involved in diversity and inclusion initiatives, including 'Mulheres em Dados' (Women in Data).
 
 #### Skills:
-- Python (Pandas, Numpy, SciPy, Scikit-learn, Seaborn, Matplotlib, etc)
-- SQL
-- PowerBi
+**Programming & Analytics:**
+- **Python:** Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn
+- **R:** ggplot2, statistical models, causal inference
+- **SQL:** Advanced queries, optimization, multiple databases
+
+**Business Intelligence:**
+- **Power BI:** Interactive dashboards, DAX, Power Query
+- **Tableau:** Advanced visualizations, data storytelling
+- **Looker:** Data modeling, LookML, business metrics
 
 <div>
   <a href="https://github.com/mari-rufino-g">
